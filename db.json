@@ -1,7 +1,7 @@
 {
     "score_goal": 20000000,
     "user": 
-    {
+    [
         "Cerrebe": 
         {
             "name": "Cerrebe",
@@ -54,5 +54,5 @@
                 "uraoni": 0
             }
         }
-    }
+    ]
 }
