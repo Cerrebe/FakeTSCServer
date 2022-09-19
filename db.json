@@ -1,9 +1,9 @@
 {
 "score_goal": {"score": 20000000},
 "user": [
-   {"username": "Cerrebe", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
-   {"username": "Slice", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
-   {"username": "Dueldani", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
-   {"username": "Pozo", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]}
+   "Cerrebe": {"username": "Cerrebe", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
+   "Slice": {"username": "SliceGame", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
+   "Dueldani": {"username": "Dueldani", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
+   "Pozo": {"username": "Pozo", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]}
 ]
 }
