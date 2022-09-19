@@ -1,5 +1,5 @@
 {
-"score_goal": {"score": 20000000},
+"score_goal": {"score": 0, "score_goal": 2000000},
 "user": [
    {"username": "Cerrebe", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
    {"username": "SliceGame", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
