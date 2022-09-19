@@ -1,58 +1,9 @@
 {
-    "score_goal": 20000000,
-    "user": 
-    {
-        "Cerrebe": 
-        {
-            "name": "Cerrebe",
-            "pfp": "",
-            "scores":
-            {
-                "easy": 0,
-                "normal": 0,
-                "hard": 0,
-                "oni": 0,
-                "uraoni": 0
-            }
-        },
-        "Slice": 
-        {
-            "name": "Slice",
-            "pfp": "",
-            "scores":
-            {
-                "easy": 0,
-                "normal": 0,
-                "hard": 0,
-                "oni": 0,
-                "uraoni": 0
-            }
-        },
-        "Dueldani": 
-        {
-            "name": "Dueldani",
-            "pfp": "",
-            "scores":
-            {
-                "easy": 0,
-                "normal": 0,
-                "hard": 0,
-                "oni": 0,
-                "uraoni": 0
-            }
-        },
-        "Pozo": 
-        {
-            "name": "Pozo",
-            "pfp": "",
-            "scores":
-            {
-                "easy": 0,
-                "normal": 0,
-                "hard": 0,
-                "oni": 0,
-                "uraoni": 0
-            }
-        }
-    }
+"score_goal": {"score": 20000000},
+"user": [
+   {"username": "Cerrebe", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
+   {"username": "Slice", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
+   {"username": "Dueldani", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]},
+   {"username": "Pozo", "pfp": "", "scores": [{"easy": 0, "normal": 1, "hard": 2, "oni": 3, "uraoni": 4}]}
+]
 }
